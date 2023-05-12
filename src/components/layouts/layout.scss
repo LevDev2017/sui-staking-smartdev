@@ -1,0 +1,13 @@
+.layout-wrapper {
+    @apply bg-bg text-white text-15 font-normal;
+
+    width: 100vw;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.connect-btn{
+    background-color: #5137ee !important;
+    border-radius: .375rem !important;
+}
